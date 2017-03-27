@@ -1,4 +1,5 @@
 #!/bin/bash
+rm -f $0
 function terminate(){
    kill -9 1
 }
